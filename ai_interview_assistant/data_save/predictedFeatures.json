@@ -1,0 +1,30 @@
+{
+    "candidate_id": "CAND-10492",
+    "session_duration_seconds": 345,
+    "raw_cues_averages": {
+        "visual": {
+            "smile_score": 0.44,
+            "eye_opening_distance": 7.42,
+            "lip_corner_distance": 32.46,
+            "fer2013_primary_emotion": "happy"
+        },
+        "audio": {
+            "average_pitch_hz": 178.6,
+            "intensity_db": 26.5
+        },
+        "lexical": {
+            "vader_sentiment_compound": 0.89
+        }
+    },
+    "predicted_traits": {
+        "stress_resistance": 81.0,
+        "passion": 70.8,
+        "confidence": 100,
+        "cooperation": 95.5,
+        "leadership": 94.2,
+        "eye_contact": 100,
+        "general_overall": 90.3,
+        "hireability_score": 86.0
+    },
+    "recommendation": "Strongly Consider"
+}
